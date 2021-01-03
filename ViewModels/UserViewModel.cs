@@ -1,0 +1,8 @@
+﻿namespace CardsGame.ViewModels
+{
+    public class UserViewModel
+    {
+        public string Username { get; set; }
+        public int RoomId { get; set; }
+    }
+}
